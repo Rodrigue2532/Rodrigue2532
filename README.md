@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**Rodrigue2532/Rodrigue2532** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I’m Rodrigue from Sayna . It’s a digital school to learn all digitals jobs with a good family spirit and game way.
+I’m Interested in code but I am not developper, sorry !
+I’m currently learning all things about development and specifically how to learn it.
+I’m looking to collaborate on many projects to see all the methodoly development in the world, good luck for me !
+How to reach me : Ramamonjisoa.rodrigue@gmail.com
 
-Here are some ideas to get you started:
+<br><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+More about SAYNA : http://sayna.io/<br>
+
+
+To the pleasure of exchanging and/or collaborating together
